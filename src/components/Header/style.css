@@ -22,4 +22,7 @@
 h1 {
     font-size: 1rem;
     margin-left: 20px;
+    font-style: italic;
+    letter-spacing: 2px;
+    color: navy;
 }
