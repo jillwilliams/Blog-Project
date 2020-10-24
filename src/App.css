@@ -1,0 +1,10 @@
+body {
+    background: #e9eaed;
+    font-family: "Nunito";
+}
+.App {
+    width: 90%;
+    margin: 0 auto;
+    /* remove later */
+    border: 1px solid black;
+}

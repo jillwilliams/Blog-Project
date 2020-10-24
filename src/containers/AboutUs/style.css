@@ -1,0 +1,17 @@
+div {
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.aboutUsPic {
+    margin-top: 20px;
+    margin-left: 0;
+
+}
+p {
+    text-align: center;
+}
+.aboutUsImage {
+    width: 100%;
+    margin: 0;
+    display: flex;
+}
